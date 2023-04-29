@@ -1,0 +1,27 @@
+[
+    {
+        "title": "lord of the rings",
+        "text": "tolkien",
+        "note_id": "60a4d52a-661e-42d9-a575-ca7316aeae78"
+    },
+    {
+        "title": "does this work",
+        "text": "note number 2",
+        "note_id": "b4d63fe0-df84-4fb8-a509-d1a0f26d4b5a"
+    },
+    {
+        "title": "Does this still work",
+        "text": "lets see",
+        "note_id": "ad470db3-5e50-4da4-b403-dfebe6b688fc"
+    },
+    {
+        "title": "note 4",
+        "text": "checking delete button",
+        "note_id": "bf3f1af6-f82c-4c3a-84f5-7fc33cbb63b1"
+    },
+    {
+        "title": "note 2",
+        "text": "this is another note",
+        "note_id": "adbecb08-687d-411a-aaa0-7a665b21e1fe"
+    }
+]
